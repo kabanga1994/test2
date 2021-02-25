@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZTJjNTVjNzU3ZDdiOTEyYTY1MjkzNGYiLCJmaXJzdE5hbWUiOiJLYWJhbmdhIiwiZ2VuZGVyIjoibWFsZSIsIm1vYmlsZU51bWJlciI6IisyNTU3MTQ5MTE5NTciLCJiaXJ0aERhdGUiOiIxOTk0LTA3LTAyIiwiZW1haWwiOiJnbWFqc2tAZ21haWwuY29tIiwiY291bnRyeUNvZGUiOiJUWiIsImxhc3ROYW1lIjoiIiwiYXV0aFByb3ZpZGVyIjpudWxsLCJpc1NvY2lhbEF1dGgiOmZhbHNlLCJpZCI6IjVlMmM1NWM3NTdkN2I5MTJhNjUyOTM0ZSIsIndhbGxldCI6IjVlMmM1NWM3NTdkN2I5MTJhNjUyOTM3NCIsImlhdCI6MTYxNDI2Nzg2NiwiZXhwIjoxNjE5NDUxODY2LCJpc3MiOiJtb2JpbGVfbG9jYWxfYXV0aCJ9.JSKMA0O9zGzU8fCGJ35cVnU75RTv5mt9J60pqB3wVZg",
+  "userInfo": {
+    "_id": "",
+    "firstName": "TEST",
+    "gender": "",
+    "mobileNumber": "",
+    "birthDate": "",
+    "email": "",
+    "countryCode": "TZ",
+    "lastName": "",
+    "status": "ACTIVE",
+    "isSocialAuth": false,
+    "wallet": ""
+  },
+  "code": "jwt_created",
+  "status": 200
+}
